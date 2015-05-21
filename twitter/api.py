@@ -275,7 +275,7 @@ class Api(object):
                   lang=None,
                   locale=None,
                   result_type="mixed",
-                  include_entities=None
+                  include_entities=None,
                   f=None):
         """Return twitter search results for a given term.
 
